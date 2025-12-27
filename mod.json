@@ -1,0 +1,17 @@
+{
+    "format_version": "1.1.0",
+    "meta": {
+        "name": "EPPL",
+        "version": "1.0.0",
+        "namespace": "eppl",
+        "author": "theaddonn <theaddonn@gmail.com>, MaxRM, Ruhama",
+        "uuid": "da3b5bd9-2346-452a-8645-d8e271a7acbc",
+        "dependencies": [
+            {
+                "dependency_uuid": "e56c3987-fd4a-4590-9923-a07fc4be7250",
+                "dependency_namespace": "amethyst",
+                "version_range": ">=2.0.0 <2.1.0"
+            }
+        ]
+    }
+}

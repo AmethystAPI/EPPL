@@ -1,0 +1,29 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "EPPL",
+        "description": "theaddonn <theaddonn@gmail.com>",
+        "uuid": "74c0a46d-809c-454d-8263-bcd77af4ec16",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            21,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "7c580e71-a21b-4e01-8707-15ab40cf6b16",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
